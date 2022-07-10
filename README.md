@@ -1,2 +1,4 @@
-# pcb-eso-lang
- Esoteric Language
+# PCB Esoteric Language
+Esoteric Language
+
+i hate doing readmes
